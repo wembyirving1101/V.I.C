@@ -1,2 +1,2 @@
-# V.I.C
-Virtual Intelligence Companion, my Jarvis basically
+# C.A.E.L
+Cognitive Assistance & Execution Layer
