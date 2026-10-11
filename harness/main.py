@@ -15,7 +15,7 @@ messages = [
     }
 ]
 
-print("VIC is online. Type 'exit' to quit.\n")
+print("CAEL is online. Type 'exit' to quit.\n")
 
 while True:
     user_input = input("You: ").strip()
